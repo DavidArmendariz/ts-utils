@@ -1,0 +1,25 @@
+{
+  "name": "@darmendarizp/ts-utils",
+  "version": "1.0.0",
+  "description": "Typescript utils",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidArmendariz/ts-utils.git"
+  },
+  "keywords": [
+    "typescript",
+    "utils",
+    "types",
+    "javascript"
+  ],
+  "author": "David Armendariz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidArmendariz/ts-utils/issues"
+  },
+  "homepage": "https://github.com/DavidArmendariz/ts-utils#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
