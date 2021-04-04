@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@darmendarizp/prettier-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@darmendarizp/prettier-config/-/prettier-config-1.0.0.tgz#5313b1cc27415da31c7b82c788a2e260736079e6"
+  integrity sha512-pRflzEcPHcWQP2Yc7d7SjHQzc1uggP/WOE5I0m/KOs/Mh706pzaxLju+EQ4nFm5xQGfs5h+lRJ+lRtgfd9lyaQ==
+
 typescript@^4.2.3:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.3.tgz#39062d8019912d43726298f09493d598048c1ce3"
